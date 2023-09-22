@@ -479,6 +479,7 @@ body {
 
     .cta-section h4 {
         padding-left: 50px;
+        margin-bottom: 200px;
     }
     .cta-section{
         margin-top: -50px;
@@ -495,7 +496,7 @@ body {
         padding-left: 50px;
         font-weight:100;
         margin-top:30px;
-        margin-bottom:300px
+        margin-bottom:200px
     }
     .cta-section h1 {
         margin-top:400px;
@@ -520,6 +521,11 @@ body {
         width: 550px;
         margin: 0 0 1em 0;
         overflow: hidden;
+    }
+    .contacto-section{
+        padding-top: 50px;
+        padding-left: 50px;
+
     }
 }
 
@@ -562,6 +568,10 @@ body {
     }
     .beneficios-section h1{
         padding-right: 50px;
+    }
+
+    .contacto-section{
+        padding-left: 30px;
     }
 }
 
