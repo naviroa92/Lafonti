@@ -567,11 +567,17 @@ body {
         padding-right: 50px;
     }
     .beneficios-section h1{
-        padding-right: 50px;
+        padding-right: 10px;
     }
 
     .contacto-section{
         padding-left: 30px;
     }
+    .module2 {
+        width: 550px;
+        margin: 0 0 1em 0;
+        overflow: hidden;
+    }
+
 }
 
