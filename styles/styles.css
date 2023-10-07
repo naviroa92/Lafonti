@@ -581,3 +581,26 @@ body {
 
 }
 
+@media (max-width: 500px) {
+    .industrias-section h4{
+        margin-left: 30px;
+    }
+}
+
+
+@media (max-width: 424px) {
+    .cta-section h1 {
+        padding: 10px;
+        }
+
+    .cta-section h4 {
+            padding: 10px;
+            font-weight: 300;
+        }
+    .cta-section{
+        margin-top: -10px;
+        background-image: url(../assets/img/cta-section-background-responsive-small.svg);
+        background-position: center center;
+        background-size: cover;
+    }
+}
