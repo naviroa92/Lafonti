@@ -1,4 +1,10 @@
 /**{border: solid 1px red;}*/
+
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+
 /*-----------------------------------STYLES CTA -SECTION-----------------------------------*/
 body {
     background:rgb(16, 23, 88);
@@ -579,6 +585,8 @@ body {
         overflow: hidden;
     }
 
+    
+
 }
 
 @media (max-width: 500px) {
@@ -603,4 +611,9 @@ body {
         background-position: center center;
         background-size: cover;
     }
+
+    .services-section .card{
+        width: 18rem;
+    }
+
 }
