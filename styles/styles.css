@@ -5,6 +5,9 @@
     padding: 0px;
 }
 
+.industrias img{
+    margin: auto;
+}
 /*-----------------------------------STYLES CTA -SECTION-----------------------------------*/
 body {
     background:rgb(16, 23, 88);
@@ -616,4 +619,7 @@ body {
         width: 18rem;
     }
 
+    .services-section .card-text{
+        padding:10px;
+    }
 }
