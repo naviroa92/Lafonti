@@ -503,6 +503,8 @@ body {
     margin-bottom: 30px;
 }
 
+/*=============================================EXPORTADORES==================================*/
+
 .exportadores-section{
     background-image: url(../assets/img/section-cadena-exportadores-background.svg);
     background-color:rgb(8,14,70);
@@ -555,6 +557,7 @@ ul#tabs li.check {
     width: 200px;
 }
 
+  /*--------------------------------EMPRESAS-----------------------------------*/
 
 
 
