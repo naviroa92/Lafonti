@@ -202,13 +202,13 @@ body {
 /*----------------------------------consultoria Card-----------------------------------*/
 
 /*-----------------------------------SERVICES CTA -SECTION-----------------------------------*/
-.empresas-section h1{
+.empresas-pioneras-section h1{
     color:rgb(0,215,207);
     text-align: center;
     font-weight:700;
 }
 
-.empresas-section p{
+.empresas-pioneras-section p{
     color: aliceblue;
     text-align: center;
     font-weight:100;
@@ -560,7 +560,8 @@ ul#tabs li.check {
 /*--------------------------------EMPRESAS-----------------------------------*/
 
 .empresas-section{
-    background-image: url(../assets/img/section-cadena-empresas-background.svg);    background-size: cover;
+    background-image: url(../assets/img/section-cadena-empresas-background.svg);
+    background-size: cover;
     margin-bottom: 50px;
 }
 
