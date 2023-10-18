@@ -1,5 +1,4 @@
 //alert("Hola estoy conectado");//
-
 $(document).ready(function(){
     $('.customer-logos').slick({
         slidesToShow: 6,
@@ -22,3 +21,4 @@ $(document).ready(function(){
         }]
     });
 });
+

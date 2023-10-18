@@ -24,7 +24,7 @@ body {
 
 .cta-section h1 {
     color: aliceblue;
-    margin-top:400px;
+    margin-top:300px;
     font-size:50px
 }
 
@@ -866,6 +866,11 @@ ul#tabs li.check {
     }
     .empresas-section{
         background-image: url(../assets/img/section-cadena-empresas-background1400.svg);
+        background-size: cover;
+    }
+
+    .exportadores-section{
+        background-image: url(../assets/img/section-cadena-exportadores-background1400.svg);
         background-size: cover;
     }
   }
