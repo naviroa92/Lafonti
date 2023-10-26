@@ -919,6 +919,14 @@ ul#tabs li.check {
         font-size: 30px;
     }
 
+    .services-certificados h2{
+        font-size: 25px;
+    }
+
+    .codigo-section h2{
+        font-size: 25px;
+    }
+
     .services-cadena h2{
         font-size: 25px;
         padding: 20px;
@@ -1037,6 +1045,18 @@ ul#tabs li.check {
         background-image: url(../assets/img/cta-section-background-responsive-small.svg);
         background-position: center center;
         background-size: cover;
+    }
+
+    .services-certificados h1{
+        font-size: 25px;
+    }
+
+    .services-certificados h2{
+        font-size: 20px;
+    }
+
+    .codigo-section h2{
+        font-size: 20px;
     }
 
     .services-section .card{
